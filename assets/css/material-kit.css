@@ -47,6 +47,18 @@ html {
   font-weight: 700;
 }
 
+.eventinformation{
+  font-size: 22px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.sponsor1{
+  color: #bd5516;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 30px;
+}
+
 @-ms-viewport {
   width: device-width;
 }
@@ -17277,7 +17289,7 @@ footer .pull-center {
 }
 
 .section {
-  padding: 70px 0;
+  padding: 30px 0;
 }
 
 .profile-page .page-header {
