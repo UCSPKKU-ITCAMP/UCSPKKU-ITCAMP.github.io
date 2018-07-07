@@ -12,11 +12,17 @@
   
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
   <!-- Material Kit CSS -->
+  <script src="assets/js/loading.js"/>
+  <link href="assets/css/loading.css"/>
   <link href="assets/css/material-kit.css?v=2.0.4" rel="stylesheet" />
 </head>
 
 <body>
   <nav class="navbar navbar-color-on-scroll navbar-transparent fixed-top navbar-expand-lg" color-on-scroll="100">
+    <div id="overlay">
+      <div id="progstat"></div>
+      <div id="progress"></div>
+    </div>
     <div class="container">
       <a href="#"><div class="navbar-translate"><img class="logosize" src="assets/img/logo.jpg" style="width: 60px; height: 60px;"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
