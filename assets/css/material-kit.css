@@ -11440,6 +11440,7 @@ label {
 
 .bd-docs .navbar .navbar-nav-scroll .navbar-nav .nav-item:first-of-type .nav-link {
   border: 1px solid;
+  fill: #444444;
   padding: 10px;
 }
 
@@ -13956,6 +13957,7 @@ textarea {
   padding: 0.625rem 0;
   margin-bottom: 20px;
   color: #555;
+  fill: #555;
   background-color: #fff !important;
   box-shadow: 0 4px 18px 0px rgba(0, 0, 0, 0.12), 0 7px 10px -5px rgba(0, 0, 0, 0.15);
 }
@@ -13979,6 +13981,7 @@ textarea {
   position: relative;
   color: inherit;
   padding: 0.9375rem;
+  
   font-weight: 400;
   font-size: 12px;
   text-transform: uppercase;
@@ -14204,6 +14207,7 @@ textarea {
   background-color: transparent !important;
   box-shadow: none;
   padding-top: 25px;
+  fill: #fff;
   color: #fff;
 }
 
@@ -17503,6 +17507,7 @@ footer .pull-center {
   }
   .navbar-collapse .navbar-nav .nav-item .nav-link {
     color: #3C4858;
+    fill: #3C4858;
     margin: 5px 15px;
   }
   .navbar-collapse .navbar-nav .nav-item.button-container .nav-link {
