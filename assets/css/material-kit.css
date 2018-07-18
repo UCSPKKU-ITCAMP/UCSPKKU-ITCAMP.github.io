@@ -17925,6 +17925,21 @@ footer .pull-center {
   border-radius: 50%;
 }
 /*# sourceMappingURL=kit-free.css.map */
+
+.reg_button:hover{
+  width:120px;
+	height:50px;
+  cursor: pointer;
+  right: 40px;
+ 
+	background-color:rgb(8, 126, 204);
+  color:#FFF;
+  font-family: 'Work Sans' !important;
+  font-weight: 400;
+	border-radius:50px;
+	box-shadow: 2px 2px 3px rgba(20, 20, 20, 0.445);
+}
+
 .reg_button{
   width:120px;
 	height:50px;
